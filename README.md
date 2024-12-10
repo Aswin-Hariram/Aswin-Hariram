@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aswin h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin h" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/aswin h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aswin h" height="30" width="40" /></a>
-<a href="https://instagram.com/aswin_hariram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_hariram" height="30" width="40" /></a>
+<a href="https://instagram.com/aswin_hariram_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_hariram_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aswin hariram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin hariram" height="30" width="40" /></a>
 </p>
 
