@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aswincseskct@gmail.com**
 
-- 📄 Know about my experiences [https://aswinh.wixsite.com/portfolio/](https://aswinh.wixsite.com/portfolio/)
+- 📄 Know about my experiences [https://aswinhariramportfolio.framer.website/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
