@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinhariram&label=Profile%20views&color=0e75b6&style=flat" alt="aswinhariram" /> </p>
 
-- 🔭 I’m currently working on [Chatterbox](https://github.com/Aswinhariram-skct/chatterbox.git)
+- 🔭 I’m currently working on [EzMark](https://github.com/Aswinhariram-skct/EzMark.git)
 
 - 🌱 I’m currently learning **Spring, Rest api, Cloud**
 
