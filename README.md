@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring, Rest api, Cloud**
 
-- 👯 I’m looking to collaborate on [Chatterbox](https://github.com/Aswinhariram-skct/chatterbox.git)
+- 👯 I’m looking to collaborate on [EzMark](https://github.com/Aswinhariram-skct/EzMark.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aswinhariram-skct](https://github.com/Aswinhariram-skct)
 
