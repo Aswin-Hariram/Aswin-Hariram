@@ -79,7 +79,7 @@
 
 <h3>🌐 Connect with Me:</h3>
 <p>
-  <a href="www.linkedin.com/in/aswin-hariram" target="_blank">
+  <a href="https://www.linkedin.com/in/aswin-hariram/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
   <a href="https://stackoverflow.com/users/aswin-h" target="_blank">
