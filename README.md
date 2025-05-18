@@ -11,11 +11,11 @@
 <p>
   I'm <strong>Aswin H</strong>, a dedicated developer from <strong>Coimbatore, India</strong>. My passion lies in creating seamless, scalable applications across platforms, with a specialization in <strong>React</strong>, <strong>React Native</strong>, and <strong>Android Native</strong> development. <br><br>
   With expertise spanning <strong>mobile app development</strong>, <strong>web development</strong>, and <strong>backend systems</strong>, I constantly explore emerging tools and frameworks to stay ahead in the tech landscape. Currently, I'm diving deep into <strong>Spring Boot</strong>, <strong>REST APIs</strong>, and <strong>Cloud technologies</strong> to enhance my backend proficiency.<br><br>
-  My mission is to craft impactful digital solutions that elevate user experiences and drive business growth. Check out my <a href="https://aswin-hariram.netlify.app/" target="_blank"><strong>Portfolio</strong></a> for a closer look at my work and expertise.
+  My mission is to craft impactful digital solutions that elevate user experiences and drive business growth. Check out my <a href="https://aswin-hariram.vercel.app/" target="_blank"><strong>Portfolio</strong></a> for a closer look at my work and expertise.
 </p>
 
 <div align="center">
-  <a href="https://aswin-hariram.netlify.app/" target="_blank">
+  <a href="https://aswin-hariram.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website" />
   </a>
 </div>
