@@ -24,24 +24,27 @@
 
 ---
 
-<h3>📊 Analytics & Activity</h3>
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img alt="Aswin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aswin-Hariram&show_icons=true&theme=radical&hide_border=true" height="195px" />
-  
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswin-Hariram&theme=radical&hide_border=true" height="195px" />
-</div>
-<br>
-<div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin-Hariram&layout=compact&langs_count=8&theme=radical&hide_border=true" width="400px" />
+
 </div>
 
-<br>
-<h4 align="center">🏆 LeetCode Problem Solving</h4>
 <div align="center">
-  <a href="https://leetcode.com/u/Q2kEKh00sY/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Q2kEKh00sY?theme=radical&font=baloo_2&ext=activity" alt="LeetCode Stats" />
-  </a>
+
+<img width="760" src="https://streak-stats.demolab.com?user=Aswin-Hariram&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="760" src="https://github-readme-activity-graph.vercel.app/graph?username=Aswin-Hariram&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aswin-Hariram&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
 </div>
 
 ---
