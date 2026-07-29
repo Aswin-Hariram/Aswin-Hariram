@@ -11,10 +11,16 @@
 
 <h3>💡 About Me</h3>
 <p>
-  I'm <strong>Aswin H</strong>, a dedicated developer with a strong foundation in <strong>Computer Science and Engineering (CSE)</strong>. My passion lies in engineering seamless, highly scalable applications across platforms, specializing in <strong>React</strong>, <strong>React Native</strong>, and <strong>Android Native</strong> development. <br><br>
-  With expertise bridging <strong>mobile architecture</strong>, <strong>web ecosystems</strong>, and <strong>robust backend systems</strong>, I am constantly exploring emerging tools to stay at the forefront of the tech landscape. Currently, I am deepening my proficiency in <strong>Spring Boot</strong>, <strong>RESTful APIs</strong>, and <strong>Cloud-native technologies</strong> (AWS/Firebase) to build enterprise-grade backends.<br><br>
-  My core mission is to craft deterministic, impactful digital solutions that elevate user experiences and drive business growth through clean code and scalable design. 
+  I'm <strong>Aswin H</strong>, a dedicated developer with a strong foundation in <strong>Computer Science and Engineering (CSE)</strong>. My passion lies in engineering seamless, highly scalable applications across platforms, specializing in <strong>React</strong>, <strong>React Native</strong>, <strong>Android Native</strong>, and <strong>AI Agent Development</strong>. <br><br>
+
+I design and build <strong>AI-powered agents</strong> capable of automating workflows, solving complex problems, and integrating with modern tools using <strong>Large Language Models (LLMs)</strong>, <strong>LangChain</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong>, and <strong>agentic AI architectures</strong>. I enjoy creating intelligent systems that combine reasoning, automation, and scalable backend services to deliver real-world value. <br><br>
+
+With expertise bridging <strong>mobile architecture</strong>, <strong>web ecosystems</strong>, <strong>AI systems</strong>, and <strong>robust backend development</strong>, I continuously explore emerging technologies to stay at the forefront of software engineering. I am expanding my proficiency in <strong>Spring Boot</strong>, <strong>RESTful APIs</strong>, and <strong>Cloud-native technologies</strong> (<strong>AWS</strong> and <strong>Firebase</strong>) to build enterprise-grade, intelligent applications. <br><br>
+
+My core mission is to craft scalable, intelligent, and impactful digital solutions that enhance user experiences, automate complex processes, and drive business growth through clean architecture, modern AI, and high-quality engineering.
+
 </p>
+
 
 <div align="center">
   <a href="https://aswin-hariram.vercel.app/" target="_blank">
